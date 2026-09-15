@@ -100,6 +100,8 @@ Recommendations
 
 ---
 
+---
+
 ## 📊 Power BI Dashboard
 
 The Power BI dashboard provides an interactive view of:

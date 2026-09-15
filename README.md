@@ -96,3 +96,29 @@ Interactive Dashboard
 Business Insights
       ↓
 Recommendations
+
+
+---
+
+## 📊 Power BI Dashboard
+
+The Power BI dashboard provides an interactive view of:
+
+- Sales performance and revenue trends
+- Category and product performance
+- Seller contribution and concentration
+- Delivery performance
+- Customer satisfaction
+- Freight and pricing patterns
+
+### Executive Overview
+
+![Executive Overview](powerbi/screenshots/executive_overview.png)
+
+### Sales & Category Analysis
+
+![Sales & Category Analysis](powerbi/screenshots/sales_category_analysis.png)
+
+### Delivery & Customer Analysis
+
+![Delivery & Customer Analysis](powerbi/screenshots/delivery_customer_analysis.png)

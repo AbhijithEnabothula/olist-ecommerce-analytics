@@ -1,0 +1,27 @@
+# Raw dataset
+data/raw/
+
+# Intermediate processed outputs
+data/processed/
+
+# Archived files
+archive/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

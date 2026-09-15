@@ -30,18 +30,23 @@ The objective of this project was to integrate and analyze these datasets to ans
 The project focuses on five major business areas:
 
 ### 1. Sales Performance
+
 Analyze revenue, orders, AOV, and monthly trends.
 
 ### 2. Category & Product Performance
+
 Identify high-performing categories, products, price bands, and freight patterns.
 
 ### 3. Seller Performance
+
 Analyze seller contribution, concentration, sales volume, and delivery risk.
 
 ### 4. Logistics Performance
+
 Identify delivery delays and geographic delivery-risk areas.
 
 ### 5. Customer Experience
+
 Analyze review scores and their relationship with delivery performance.
 
 ---
@@ -70,35 +75,23 @@ The dataset contains approximately 100K orders and multiple related business ent
 
 # 🔄 Project Workflow
 
-```text
-Raw CSV Files
-      ↓
-Python / Pandas
-      ↓
-Data Audit
-      ↓
-Data Cleaning
-      ↓
-Feature Engineering
-      ↓
-Fact Sales Modeling
-      ↓
-MySQL Database
-      ↓
-SQL Business Analysis
-      ↓
-Power BI Data Model
-      ↓
-DAX Measures
-      ↓
-Interactive Dashboard
-      ↓
-Business Insights
-      ↓
+Raw CSV Files  
+↓  
+Data Audit & Quality Checks  
+↓  
+Data Cleaning & Transformation  
+↓  
+Data Modeling  
+↓  
+Python / Pandas Analysis  
+↓  
+SQL Business Analysis  
+↓  
+Power BI Dashboard  
+↓  
+Business Insights  
+↓  
 Recommendations
-
-
----
 
 ---
 

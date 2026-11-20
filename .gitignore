@@ -1,0 +1,34 @@
+# Raw & Processed Large Datasets (keep outside GitHub)
+data/raw/*.csv
+data/processed/*.csv
+
+# Python byte-compiled / virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables & secrets
+.env
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Testing and temporary files
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Power BI temporary files
+*.pbit.cache
+*.pbix.tmp
+
+# Temporary project update scripts
+finish_olist_ml.py
